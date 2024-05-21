@@ -7,11 +7,11 @@ Virtual Xylophone in an IOS App.
 This IOS App teached me how to play sound and use an Apple library called AVFoundation. The most important skill of a great programmer is being able to solve his own problems. I’ll do that by exploring StackOverflow, Apple Documentation and learning how to search for solutions effectively. By learning to use these tools, I’ll be able to start adding custom features to an app.
 
 
-## What I create 🧱
+## What I created 🧱
 
 I made my first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this module, I made a colourful XyloPhone app.
 
-## What I learn 📖
+## What I learned 📖
 
 * How to play sound using AVFoundation and AVAudioPlayer.
 * Understand Apple documentation and how to use StackOverflow.
