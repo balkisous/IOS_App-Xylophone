@@ -4,7 +4,7 @@
 Virtual Xylophone in an IOS App.
 
 ## Goal's Project 🎯
-This IOS App learn me how to play sound and use an Apple library called AVFoundation. The most important skill of a great programmer is being able to solve his own problems. I’ll do that by exploring StackOverflow, Apple Documentation and learning how to search for solutions effectively. By learning to use these tools, I’ll be able to start adding custom features to an app.
+This IOS App teached me how to play sound and use an Apple library called AVFoundation. The most important skill of a great programmer is being able to solve his own problems. I’ll do that by exploring StackOverflow, Apple Documentation and learning how to search for solutions effectively. By learning to use these tools, I’ll be able to start adding custom features to an app.
 
 
 ## What I create 🧱
