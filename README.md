@@ -24,6 +24,10 @@ I made my first musical instrument! Music apps are so popular on the App Store t
 * Code refactoring.
 * Basic debugging.
 
+##  Excepted View 👀
+https://github.com/balkisous/IOS_App-Xylophone/assets/76943138/aab96db3-11fc-4f48-9f56-3aa920c387d8
+
+
 
 >I made this project with App Brewery's Complete App Development Bootcamp.
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
